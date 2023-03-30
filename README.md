@@ -6,10 +6,6 @@
 
 <!-- OVERVIEW -->
 
-```
-
-```
-
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
@@ -22,7 +18,7 @@
 
 # Clone this repository
 
-$ git clone https://github.com/ChoresTeam/ImageUploader/issues/1
+$ git clone https://github.com/ChoresTeam/ImageUploader
 
 # Install dependencies
 
@@ -32,6 +28,3 @@ $ npm install
 
 $ npm start
 
-```
-
-```
