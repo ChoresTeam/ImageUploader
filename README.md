@@ -1,19 +1,14 @@
 <h1 align="center">Image Uploader</h1>
 
 <div align="center">
-   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
-</div>
-
-<div align="center">
-  <h3>
-    <span> | </span>
-    <a href="https://devchallenges.io/challenges/O2iGT9yBd6xZBrOcVirx">
-      Challenge
-    </a>
-  </h3>
+   Solution for a challenge from  <a href="https://devchallenges.io/challenges/O2iGT9yBd6xZBrOcVirx">Devchallenges.io</a> using React, Redux, Node.js, PostgreSQL 
 </div>
 
 <!-- OVERVIEW -->
+
+```
+
+```
 
 ### Built With
 
